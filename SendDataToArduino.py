@@ -12,7 +12,7 @@ def submit_jobs_server(command,host_job_server,usr_job,pass_job):
 command = 'sqjobs'
 host_job_server = 'saw.sharcnet.ca'
 usr_job = 'jh6oh'
-pass_job = "Teamwilliams3!"
+pass_job = "ILoveCoding"
 sqinfo = submit_jobs_server(command,host_job_server,usr_job,pass_job)
 
 #Find button labels
